@@ -17,7 +17,7 @@ My research focuses on Macroeconomics, Financial Economics and Industrial Organi
 
 [Curriculum Vitae](https://www.dropbox.com/scl/fi/uko84i3um8f7z9kjnlglm/CV_202504.pdf?rlkey=ss2ar3bb35me1q2o234ebnsoh&st=prruzjwk&dl=0)
 
-[Name Pronumciation](https://www.name-coach.com/zhongji-wei)
+[Name Pronunciation](https://www.name-coach.com/zhongji-wei)
 
 Contact: [weizj@link.cuhk.edu.hk](weizj@link.cuhk.edu.hk), [weizj99@gmail.com](weizj99@gmail.com)
 
