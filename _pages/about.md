@@ -15,9 +15,15 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 **Welcome to my homepage!**
 
-My name is Zhongji Wei, a Ph.D. Candidate in Economics from the Chinese University of Hong Kong (CUHK). I earned my B.A. in Economics from Tsinghua SEM, with minor in Statistics in 2022.
+My name is Zhongji Wei. I am a Ph.D. Candidate in Economics at the Chinese University of Hong Kong (CUHK). I hold a B.A. in Economics (minor in Statistics) from Tsinghua SEM (2022).
 
 My research focuses on Macroeconomics, Financial Economics and Industrial Organization.
+
+[Curriculum Vitae](https://www.dropbox.com/scl/fi/uko84i3um8f7z9kjnlglm/CV_202504.pdf?rlkey=ss2ar3bb35me1q2o234ebnsoh&st=prruzjwk&dl=0)
+
+[Name Pronumciation](https://www.name-coach.com/zhongji-wei)
+
+Contact: [weizj@link.cuhk.edu.hk](weizj@link.cuhk.edu.hk), [weizj99@gmail.com](weizj99@gmail.com)
 
 <!--
 A data-driven personal website
