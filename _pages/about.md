@@ -15,11 +15,11 @@ I am Zhongji Wei, currently an ERC Research Associate at Universitat Pompeu Fabr
 
 My research focuses on Macroeconomics, Financial Economics and Industrial Organization.
 
-[Curriculum Vitae](https://www.dropbox.com/scl/fi/uko84i3um8f7z9kjnlglm/CV_202504.pdf?rlkey=ss2ar3bb35me1q2o234ebnsoh&st=prruzjwk&dl=0)
+[Curriculum Vitae](https://www.dropbox.com/scl/fi/rfe4hc6y8jb5xgqhp2hp3/CV_251030.pdf?rlkey=upcmdauydizluqefi1t1cfy1v&st=bxsgsrac&dl=0)
 
 [Name Pronunciation](https://www.name-coach.com/zhongji-wei)
 
-Contact: weizj [at] link.cuhk.edu.hk, weizj99 [at] gmail.com
+Contact: zhongji.wei [at] upf.edu
 
 
 <!---
