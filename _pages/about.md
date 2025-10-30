@@ -11,7 +11,9 @@ redirect_from:
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 --->
 
-I am Zhongji Wei, currently an ERC Research Associate at Universitat Pompeu Fabra and an M.Phil. in Economics at the Chinese University of Hong Kong (expected 2026). I hold a B.A. in Economics (minor in Statistics) from Tsinghua University’s School of Economics and Management (2022).
+I am Zhongji Wei, currently an ERC Research Associate at Universitat Pompeu Fabra and an M.Phil. in Economics at the Chinese University of Hong Kong (expected 2026). 
+
+I hold a B.A. in Economics (minor in Statistics) from Tsinghua University’s School of Economics and Management (2022).
 
 My research focuses on Macroeconomics, Industrial Organization and Chinese Economy.
 
