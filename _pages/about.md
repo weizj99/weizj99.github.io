@@ -13,7 +13,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
 
 I am Zhongji Wei, currently an ERC Research Associate at Universitat Pompeu Fabra and an M.Phil. in Economics at the Chinese University of Hong Kong (expected 2026). I hold a B.A. in Economics (minor in Statistics) from Tsinghua University’s School of Economics and Management (2022).
 
-My research focuses on Macroeconomics, Financial Economics and Industrial Organization.
+My research focuses on Macroeconomics, Industrial Organization and Chinese Economy.
 
 [Curriculum Vitae](https://www.dropbox.com/scl/fi/rfe4hc6y8jb5xgqhp2hp3/CV_251030.pdf?rlkey=upcmdauydizluqefi1t1cfy1v&st=bxsgsrac&dl=0)
 
