@@ -17,7 +17,7 @@ I hold a B.A. in Economics (minor in Statistics) from Tsinghua University’s Sc
 
 My research focuses on Macroeconomics, Industrial Organization and Chinese Economy.
 
-[Curriculum Vitae](https://www.dropbox.com/scl/fi/rfe4hc6y8jb5xgqhp2hp3/CV_251030.pdf?rlkey=upcmdauydizluqefi1t1cfy1v&st=u57mird6&dl=0)
+[Curriculum Vitae](https://www.dropbox.com/scl/fi/rfe4hc6y8jb5xgqhp2hp3/CV_251030.pdf?rlkey=upcmdauydizluqefi1t1cfy1v&st=n7lg48n9&dl=0)
 
 [Name Pronunciation](https://www.name-coach.com/zhongji-wei)
 
