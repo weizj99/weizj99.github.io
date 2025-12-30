@@ -21,7 +21,7 @@ My research focuses on Macroeconomics, Industrial Organization and Chinese Econo
 
 [Name Pronunciation](https://www.name-coach.com/zhongji-wei)
 
-Contact: zhongji.wei [at] upf.edu
+Contact: zhongji [dot] wei [at] upf [dot] edu
 
 
 <!---
