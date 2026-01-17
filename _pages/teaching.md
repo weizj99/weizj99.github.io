@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-**CUHK Structural Estimation Workshop** [[Link]](https://github.com/weizj99/Structural-Estimation-Workshop)
+**CUHK Structural Estimation Workshop** [[Link]](https://github.com/weizj99/CUHK-Structural-Estimation-Method-Workshop)
 
 **Course taught as TA at CUHK**
  - Machine Learning Methods (PG elective)
