@@ -1,0 +1,8 @@
+html {
+  font-size: 18px;
+}
+
+.page__content p,
+.page__content li {
+  line-height: 1.6;
+}
