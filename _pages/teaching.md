@@ -16,5 +16,5 @@ author_profile: true
  - Mathematical Methods in Economics (UG compulsory)
 
 **Course taught as TA at Tsinghua**  
-- Principle of Economics I \& II (UG compulsory) 
+- Principle of Economics I & II (UG compulsory) 
   - *Best TA Award from Tsinghua SEM*  
