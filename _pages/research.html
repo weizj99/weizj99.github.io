@@ -5,32 +5,21 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Work in Progress
 
+*   *Rise of Platforms and Aggregate Market Power*, with Jian Du (RUC) and [Xijie Gao](https://sites.google.com/view/xijiegaolse) (NTU) (Draft Coming Soon)
+    *   Singapore Initiative for Digital Economy 2025*
+    *   EFG Annual 2025 Xiamen*
+    *   EWMES 2025 Nicosia
+    *   UPF Data Economy Brownbag Workshop (scheduled)
 
+*   *Housing Market Responses to Non-market Allocation: An Assignment Approach*, with Jimmy Ho (WUSTL), Yulin Hong (CityUHK) and [Michael B. Wong](https://mbwong.com/) (HKU) (Draft Coming Soon)
+    *   EMUEA 2025 Berlin
+    *   HKU Brownbag*
+    *   Jinan-SMU Conference on Urban and Regional Economics 2025*
+    *   AREUEA-ASSA 2026 Philadelphia
 
+<br/>
+\*: presented by coauthors
