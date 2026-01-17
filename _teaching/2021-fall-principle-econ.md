@@ -8,3 +8,5 @@ date: 2021-09-01
 location: "Beijing, China"
 ---
 Teaching Assistant for Prof. Yingyi Qian (Fall 2021, Spring 2022).
+
+**Best TA Award from Tsinghua SEM**
