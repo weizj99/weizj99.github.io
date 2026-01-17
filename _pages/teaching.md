@@ -7,10 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-*   [CUHK Structural Estimation Workshop](https://github.com/weizj99/Structural-Estimation-Workshop)
-*   Mathematical Methods in Economics (UG compulsory), CUHK
-*   Machine Learning Methods (PG elective), CUHK
-*   Mathematical Economics (UG elective), CUHK
-*   Advanced Macroeconomics (UG elective), CUHK
-*   Principle of Economics I, II (UG compulsory), Tsinghua
-    &nbsp;&nbsp; <small>Best TA Award from Tsinghua SEM</small>
+**CUHK Structural Estimation Workshop** [[Link]](https://github.com/weizj99/Structural-Estimation-Workshop)
+
+**Course taught as TA at CUHK**
+ - Mathematical Methods in Economics (UG compulsory)
+ - Machine Learning Methods (PG elective)
+ - Mathematical Economics (UG elective)
+ - Advanced Macroeconomics (UG elective)
+
+**Course taught as TA at Tsinghua**  
+- Principle of Economics I, II (UG compulsory) 
+  - *Best TA Award from Tsinghua SEM*  
