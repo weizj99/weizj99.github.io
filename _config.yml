@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhongji Wei 韦忠吉"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile2.png"
-  name             : "Zhongji Wei"
+  name             : "Zhongji Wei 韦忠吉"
   pronouns         : # example: "she/her"  
   bio              : "ERC Research Assistant"
   location         : "Barcelona, ES"
