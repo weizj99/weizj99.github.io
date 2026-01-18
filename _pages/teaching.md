@@ -8,7 +8,9 @@ author_profile: true
 {% include base_path %}
 
 **CUHK Structural Estimation Workshop** [[Link]](https://github.com/weizj99/CUHK-Structural-Estimation-Method-Workshop)
-
+ - I organized this peer‑led methods workshop at CUHK.  
+ - It provides clear, easy‑to‑follow and practical overviews of core empirical methods,  with links to relevant resources, recent estimation techniques and applications in applied research.
+ 
 **Course taught as TA at CUHK**
  - Machine Learning Methods (PG elective)
  - Mathematical Economics (UG elective)
