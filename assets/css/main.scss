@@ -58,3 +58,15 @@ html {
 .content {
   font-size: 1rem;
 }
+
+/* ----------------------------------
+   Tighter spacing for Home page only
+   ---------------------------------- */
+
+.layout--home .page-content {
+  padding-top: 1.5rem;
+}
+
+.layout--home .page-content h1 {
+  margin-top: 0;
+}
