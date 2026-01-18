@@ -16,6 +16,6 @@ author_profile: true
 
 *   **Housing Market Responses to Non-market Allocation: An Assignment Approach**, with Jimmy Ho (WUSTL), Yulin Hong (CityUHK) and [Michael B. Wong](https://mbwong.com/) (HKU) (*Draft Coming Soon*)
   
-    *   *Presented at* EMUEA 2025 Berlin, HKU\*, Jinan-SMU Conference on Urban and Regional Economics 2025\*, AREUEA-ASSA Annual Meeting 2026 Philadelphia\*
+    *   *Presented at* EMUEA 2025 Berlin, HKU\*, Jinan-SMU Conference on Urban and Regional Economics 2025\*, ASSA Annual Meeting 2026 Philadelphia\*
 <br/>
 \*: presented by coauthors
