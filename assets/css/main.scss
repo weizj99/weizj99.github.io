@@ -70,3 +70,20 @@ html {
 .layout--home .page-content h1 {
   margin-top: 0;
 }
+
+/* ----------------------------------
+   Restore balanced spacing on Home
+   (counteract global font/line-height)
+   ---------------------------------- */
+
+.home,
+.page-home,
+.layout-home {
+  line-height: 1.45;
+}
+
+.home p,
+.page-home p,
+.layout-home p {
+  margin-bottom: 0.9rem;
+}
