@@ -18,5 +18,6 @@ author_profile: true
 
 [UPF Macro Development Reading Group](https://sites.google.com/view/reading-group-upf-macro-dev/home)
 
-1.   **Mandarin Model of Growth** by Song and Xiong [[Slides]](https://www.dropbox.com/scl/fi/do7askaz11k2t1fmrzp66/Macro_Reading_Group_Presentation_251128.pdf?rlkey=0g9osud6ds9s0mpsj4mejb8u8&e=2&st=b9kfr9yj&dl=0), at UPF Macro Development Reading Group, Nov 2025
-2.   **Markups Across the Income Distribution** by Sangani [[Slides]](https://www.dropbox.com/scl/fi/fb4psjyw3xya6mfbxu4hw/Presentation240415-CUHK-Macro-Reading-Group.pdf?rlkey=6cehxeot4k299z45y8ak091lm&e=1&st=aaudmp3d&dl=0), at CUHK Macro Reading Group, Apr 2024 
+1. **Drive Down the Cost: Learning by Doing and Government Policies in the Global EV Battery Industry** by Barwick et al. [[Slides]](https://www.dropbox.com/scl/fi/sgq1lpjow1e4fgx9752xl/Drive_Down_The_Cost_260306.pdf?rlkey=yd03kgq1eoymrsi2dpblmpjpm&e=1&st=cw4bg0qx&dl=0), at UPF Macro Development Reading Group, Mar 2026
+2. **Mandarin Model of Growth** by Song and Xiong [[Slides]](https://www.dropbox.com/scl/fi/do7askaz11k2t1fmrzp66/Macro_Reading_Group_Presentation_251128.pdf?rlkey=0g9osud6ds9s0mpsj4mejb8u8&e=2&st=b9kfr9yj&dl=0), at UPF Macro Development Reading Group, Nov 2025
+3. **Markups Across the Income Distribution** by Sangani [[Slides]](https://www.dropbox.com/scl/fi/fb4psjyw3xya6mfbxu4hw/Presentation240415-CUHK-Macro-Reading-Group.pdf?rlkey=6cehxeot4k299z45y8ak091lm&e=1&st=aaudmp3d&dl=0), at CUHK Macro Reading Group, Apr 2024 
