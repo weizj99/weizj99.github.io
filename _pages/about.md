@@ -23,6 +23,7 @@ My research focuses on Macroeconomics, Industrial Organization and Chinese Econo
 
 Contact: zhongji [dot] wei [at] upf [dot] edu
 
+Upcoming Events: NASM 2026 at Emory
 
 <!---
 A data-driven personal website
