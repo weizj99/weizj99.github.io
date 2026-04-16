@@ -17,13 +17,14 @@ I hold a B.A. in Economics (minor in Statistics) from Tsinghua University’s Sc
 
 My research focuses on Macroeconomics, Industrial Organization and Chinese Economy.
 
+**Contact**: zhongji [dot] wei [at] upf [dot] edu
+
+**Upcoming Talks**: NASM 2026 at Emory
+
 [Curriculum Vitae](https://www.dropbox.com/scl/fi/13w9kotjhkpjhk7z55jxo/CV_260415.pdf?rlkey=h3uckbr8xp3xnyl7sanmyw60e&st=19wb8464&dl=0)
 
 [Name Pronunciation](https://www.name-coach.com/zhongji-wei)
 
-Contact: zhongji [dot] wei [at] upf [dot] edu
-
-Upcoming Events: NASM 2026 at Emory
 
 <!---
 A data-driven personal website
