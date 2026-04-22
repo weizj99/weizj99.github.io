@@ -19,7 +19,7 @@ My research focuses on Macroeconomics, Industrial Organization and Chinese Econo
 
 **Contact**: zhongji [dot] wei [at] upf [dot] edu
 
-**Upcoming Talks**: NASM 2026 at Emory
+**Upcoming Talks**: NASM 2026 at Emory, EEA-ESEM 2026 at University College Dublin
 
 [Curriculum Vitae](https://www.dropbox.com/scl/fi/13w9kotjhkpjhk7z55jxo/CV_260415.pdf?rlkey=h3uckbr8xp3xnyl7sanmyw60e&st=19wb8464&dl=0)
 
