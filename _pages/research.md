@@ -9,7 +9,7 @@ author_profile: true
 
 ## Work in Progress
 
-*   **Rise of Platforms and Aggregate Market Power**, with Jian Du (RUC), [Jan Eeckhout](https://www.janeeckhout.com/) and [Xijie Gao](https://sites.google.com/view/xijiegaolse) (NTU) (*Draft Coming Soon*)
+*   **Rise of Platforms and Aggregate Market Power**, with Jian Du (RUC), [Jan Eeckhout](https://www.janeeckhout.com/) (UPF) and [Xijie Gao](https://sites.google.com/view/xijiegaolse) (NTU) (*Draft Coming Soon*)
 
     *   *Presented at* Singapore Initiative for Digital Economy 2025\*, EFG Annual 2025 Xiamen\*, EWMES 2025 Nicosia, CUHK, 11th Monash-Paris-Warwick-Zurich-CEPR Text-As-Data Workshop, NASM 2026 Emory (scheduled)
 
