@@ -18,4 +18,4 @@ author_profile: true
   
     *   *Presented at* EMUEA 2025 Berlin, HKU\*, Jinan-SMU Conference on Urban and Regional Economics 2025\*, ASSA Annual Meeting 2026 Philadelphia\*, EEA-ESEM 2026 Dublin (scheduled)
 <br/>
-\*: presented by coauthors
+*: presented by coauthors
