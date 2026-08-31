@@ -19,7 +19,7 @@ My research focuses on Macroeconomics, Industrial Organization and Chinese Econo
 
 **Contact**: zhongji [dot] wei [at] upf [dot] edu
 
-**Upcoming Presentations**: EEA-ESEM 2026; AEA 2027 (poster)
+**Upcoming Presentations**: AEA 2027 (poster)
 
 [Curriculum Vitae](https://www.dropbox.com/scl/fi/30ddo74fcr3hpe96z4uny/CV_260520.pdf?rlkey=07gzct6aagggtimfyqlm2ld3t&st=dzfxtays&dl=0)
 
