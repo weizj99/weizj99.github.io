@@ -21,7 +21,7 @@ My research focuses on Macroeconomics, Industrial Organization and Chinese Econo
 
 **Upcoming Presentations**: Network Science & Economics 2026 Luxembourg; AEA 2027 Washington DC (poster)
 
-[Curriculum Vitae](https://www.dropbox.com/scl/fi/30ddo74fcr3hpe96z4uny/CV_260520.pdf?rlkey=07gzct6aagggtimfyqlm2ld3t&st=dzfxtays&dl=0)
+[Curriculum Vitae](https://www.dropbox.com/scl/fi/2u1mpyoh7d7pb3at7l9v2/CV_260928.pdf?rlkey=swx3o2v4okm1l4bh7u1s42rkm&st=jhdqoore&dl=0)
 
 [Name Pronunciation](https://www.name-coach.com/zhongji-wei)
 
