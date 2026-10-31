@@ -13,7 +13,7 @@ author_profile: true
 
     *   *Presentation*: Singapore Initiative for Digital Economy 2025\*, EFG Annual 2025 Xiamen\*, EWMES 2025 Nicosia, CUHK, 11th Monash-Paris-Warwick-Zurich-CEPR Text-As-Data Workshop, NASM 2026 Atlanta, AEA 2027 Washington DC (poster)#
 
-*   **Housing Market Responses to Non-market Allocation: An Assignment Approach**, with Jimmy Ho (WUSTL), Yulin Hong (CityUHK) and [Michael B. Wong](https://mbwong.com/) (HKU) (*Draft Coming Soon*)
+*   **Public Allocation and Private Supply: A Housing Assignment Approach**, with Jimmy Ho (WUSTL), Yulin Hong (CityUHK) and [Michael B. Wong](https://mbwong.com/) (HKU) (*Draft Coming Soon*)
   
     *   *Presentation*: EMUEA 2025 Berlin, HKU\*, Jinan-SMU Conference on Urban and Regional Economics 2025\*, ASSA Annual Meeting 2026 Philadelphia\*, EEA-ESEM 2026 Dublin; UPF Internal Applied Lunch
  
