@@ -9,7 +9,7 @@ author_profile: true
 
 **Computational Economics — An Interactive Course** [[Interactive Website]](https://computational-economics.zhongjiwei.org/) · [[GitHub]](https://github.com/weizj99/computational-economics-mp)
 
-- An open course connecting economic models, numerical equilibrium, moment matching, structural estimation, and parallel computing.
+- An open course connecting economic models, computational equilibrium, structural estimation and parallel computing.
 - Built around a market-power model, with interactive examples, short videos, exercises, and reproducible Python code.
 
 **CUHK Structural Estimation Workshop** [[Github]](https://github.com/weizj99/CUHK-Structural-Estimation-Method-Workshop)
