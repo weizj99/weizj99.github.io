@@ -12,16 +12,17 @@ author_profile: true
 - An open course connecting economic models, computational equilibrium, structural estimation and parallel computing.
 - Built around a market-power model, with interactive examples, short videos, exercises, and reproducible Python code.
 
-**CUHK Structural Estimation Workshop** [[Github]](https://github.com/weizj99/CUHK-Structural-Estimation-Method-Workshop)
- - I organized this peer‑led methods workshop at CUHK.  
- - It provides clear, easy‑to‑follow and practical overviews of core empirical methods,  with links to relevant resources, recent estimation techniques and applications in applied research.
+**CUHK Structural Estimation Workshop** [[GitHub]](https://github.com/weizj99/CUHK-Structural-Estimation-Method-Workshop)
+- I organized this peer‑led methods workshop at CUHK.  
+- It provides clear, easy‑to‑follow and practical overviews of core empirical methods, with links to relevant resources, recent estimation techniques and applications in applied research.
  
-**Course taught as TA at CUHK**
- - Machine Learning Methods (PG elective)
- - Mathematical Economics (UG elective)
- - Advanced Macroeconomics (UG elective)
- - Mathematical Methods in Economics (UG compulsory)
+**Teaching Assistant, CUHK**
+- Machine Learning Methods (PG elective)
+- Mathematical Economics (UG elective)
+- Advanced Macroeconomics (UG elective)
+- Mathematical Methods in Economics II (UG compulsory)
+  - *Adjusted evaluation mean 5.40/6 (department 5.01)*
 
-**Course taught as TA at Tsinghua**  
-- Principle of Economics I & II (UG compulsory) 
-  - *Best TA Award from Tsinghua SEM*  
+**Teaching Assistant, Tsinghua**
+- Principles of Economics I & II (UG compulsory) 
+  - *Excellent TA Award, Tsinghua SEM*  
