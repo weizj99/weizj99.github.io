@@ -7,17 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-## Working Papers
+<h2 id="working-papers">Working Papers <span class="legend">* presented by coauthors, † scheduled</span></h2>
 
-*   **Endogenous Markups in Demand and Production Networks** (*Draft Coming Soon*)
-    *   *Presentation*: Network Science & Economics 2026 Luxembourg, EWMES 2026 Warsaw†
+<ol class="papers">
+<li><span class="num">1.</span><strong>Endogenous Markups in Demand and Production Networks</strong> <span class="status">(<em>draft coming soon</em>)</span>
+<span class="co">Single-authored</span>
+<span class="pres"><em>Presentations</em>: Network Science &amp; Economics 2026 Luxembourg, EWMES 2026 Warsaw†</span></li>
+<li><span class="num">2.</span><strong>Public Allocation and Private Supply: A Housing Assignment Approach</strong> <span class="status">(<em>draft coming soon</em>)</span>
+<span class="co">with Jimmy Ho (WUSTL), Yulin Hong (CityUHK) and <a href="https://mbwong.com/">Michael B. Wong</a> (HKU)</span>
+<span class="pres"><em>Presentations</em>: EMUEA 2025 Berlin, HKU*, Jinan-SMU Conference on Urban and Regional Economics 2025*, ASSA Annual Meeting 2026 Philadelphia*, EEA-ESEM 2026 Dublin, UPF Internal Applied Lunch</span></li>
+</ol>
 
-*   **Public Allocation and Private Supply: A Housing Assignment Approach**, with Jimmy Ho (WUSTL), Yulin Hong (CityUHK) and [Michael B. Wong](https://mbwong.com/) (HKU) (*Draft Coming Soon*)
-    *   *Presentation*: EMUEA 2025 Berlin, HKU\*, Jinan-SMU Conference on Urban and Regional Economics 2025\*, ASSA Annual Meeting 2026 Philadelphia\*, EEA-ESEM 2026 Dublin, UPF Internal Applied Lunch
+<h2 id="work-in-progress">Work in Progress</h2>
 
-## Work in Progress
-
-*   **Rise of Platforms and Aggregate Market Power**, with Jian Du (RUC), [Jan Eeckhout](https://www.janeeckhout.com/) (UPF) and [Xijie Gao](https://sites.google.com/view/xijiegaolse) (NTU)
-    *   *Presentation*: Singapore Initiative for Digital Economy 2025\*, EFG Annual 2025 Xiamen\*, EWMES 2025 Nicosia, CUHK, 11th Monash-Paris-Warwick-Zurich-CEPR Text-As-Data Workshop, NASM 2026 Atlanta, AEA 2027 Washington DC (poster)†
-
-<p style="font-size: 0.8em; color: #7a8288;">* presented by coauthors; † scheduled</p>
+<ol class="papers">
+<li><span class="num">3.</span><strong>Rise of Platforms and Aggregate Market Power</strong>
+<span class="co">with Jian Du (RUC), <a href="https://www.janeeckhout.com/">Jan Eeckhout</a> (UPF) and <a href="https://sites.google.com/view/xijiegaolse">Xijie Gao</a> (NTU)</span>
+<span class="pres"><em>Presentations</em>: Singapore Initiative for Digital Economy 2025*, EFG Annual 2025 Xiamen*, EWMES 2025 Nicosia, CUHK, 11th Monash-Paris-Warwick-Zurich-CEPR Text-As-Data Workshop, NASM 2026 Atlanta, AEA 2027 Washington DC (poster)†</span></li>
+</ol>

@@ -102,3 +102,87 @@ html {
 .archive li > ul {
   margin-top: 0.2em;
 }
+
+/* ----------------------------------
+   Same look as the CV: Lato, ruled headings, dark-blue links, muted secondary text
+   ---------------------------------- */
+
+@font-face { font-family: "CV Sans"; font-weight: 400; font-style: normal; font-display: swap; src: url("../fonts/cvsans-regular.woff") format("woff"); }
+@font-face { font-family: "CV Sans"; font-weight: 400; font-style: italic; font-display: swap; src: url("../fonts/cvsans-italic.woff") format("woff"); }
+@font-face { font-family: "CV Sans"; font-weight: 700; font-style: normal; font-display: swap; src: url("../fonts/cvsans-bold.woff") format("woff"); }
+@font-face { font-family: "CV Sans"; font-weight: 700; font-style: italic; font-display: swap; src: url("../fonts/cvsans-bolditalic.woff") format("woff"); }
+
+.archive h2,
+.page__content h2 {
+  font-size: 1.15rem;
+  margin: 1.6em 0 0.8em;
+  padding-bottom: 0.15em;
+  border-bottom: 1px solid var(--global-text-color);
+}
+
+.archive a,
+.page__content a {
+  color: var(--global-link-color);
+  text-decoration: none;
+}
+
+.archive a:hover,
+.page__content a:hover {
+  color: var(--global-link-color-hover);
+  text-decoration: underline;
+}
+
+.archive h2 .legend {
+  float: right;
+  padding-top: 0.3em;
+  font-weight: 400;
+  font-size: 0.78rem;
+  color: var(--global-muted-color);
+}
+
+@media (max-width: 600px) {
+  .archive h2 .legend {
+    float: none;
+    display: block;
+  }
+}
+
+.archive ol.papers {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.archive ol.papers > li {
+  position: relative;
+  margin: 0 0 1em;
+  padding-left: 1.5em;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.archive ol.papers > li > .num {
+  position: absolute;
+  left: 0;
+}
+
+.archive ol.papers .co,
+.archive ol.papers .pres {
+  display: block;
+}
+
+.archive ol.papers .pres {
+  margin-top: 0.15em;
+  line-height: 1.45;
+}
+
+.archive ol.papers .pres,
+.archive ol.papers .status {
+  font-size: 0.85rem;
+  color: var(--global-muted-color);
+}
+
+.archive ol.papers .pres em,
+.archive ol.papers .status em {
+  font-size: inherit;
+}
