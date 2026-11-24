@@ -87,3 +87,18 @@ html {
 .layout-home p {
   margin-bottom: 0.9rem;
 }
+
+/* ----------------------------------
+   Sub-items in lists (presentations, notes) in smaller type
+   ---------------------------------- */
+
+.archive li > ul,
+.archive li > ul li,
+.archive li > ul em {
+  font-size: 0.85rem;
+  line-height: 1.45;
+}
+
+.archive li > ul {
+  margin-top: 0.2em;
+}
