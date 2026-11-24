@@ -11,7 +11,7 @@ I am Zhongji Wei, currently an ERC Research Assistant at Universitat Pompeu Fabr
 
 I hold a B.A. in Economics (minor in Statistics) from Tsinghua University’s School of Economics and Management (2022) and an M.Phil. in Economics from the Chinese University of Hong Kong (2026).
 
-My research focuses on Industrial Organization and Macroeconomics, in particular market power, platforms and AI.
+My research focuses on Macroeconomics and Industrial Organization, in particular market power, platforms and AI.
 
 **Contact**: zhongji [dot] wei [at] upf [dot] edu
 
