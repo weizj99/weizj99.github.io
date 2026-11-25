@@ -186,3 +186,39 @@ html {
 .archive ol.papers .status em {
   font-size: inherit;
 }
+
+.archive ol.papers details.abs {
+  margin-top: 0.15em;
+  font-size: 0.85rem;
+}
+
+.archive ol.papers details.abs summary {
+  display: inline-block;
+  cursor: pointer;
+  color: var(--global-link-color);
+}
+
+.archive ol.papers details.abs summary::before {
+  content: "\25B8\00A0";
+}
+
+.archive ol.papers details.abs[open] summary::before {
+  content: "\25BE\00A0";
+}
+
+.archive ol.papers details.abs summary::-webkit-details-marker {
+  display: none;
+}
+
+.archive ol.papers details.abs p {
+  margin: 0.3em 0 0;
+  font-size: inherit;
+  line-height: 1.5;
+  text-align: justify;
+}
+
+@media (max-width: 600px) {
+  .archive ol.papers details.abs p {
+    text-align: left;
+  }
+}

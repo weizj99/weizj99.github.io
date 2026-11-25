@@ -15,7 +15,8 @@ author_profile: true
 <span class="pres"><em>Presentations</em>: Network Science &amp; Economics 2026 Luxembourg, EWMES 2026 Warsaw†</span></li>
 <li><span class="num">2.</span><strong>Public Allocation and Private Supply: A Housing Assignment Approach</strong> <a href="/papers/housing_spillover/">[PDF]</a>
 <span class="co">with Jimmy Ho (WUSTL), Yulin Hong (CityUHK) and <a href="https://mbwong.com/">Michael B. Wong</a> (HKU)</span>
-<span class="pres"><em>Presentations</em>: EMUEA 2025 Berlin, HKU*, Jinan-SMU Conference on Urban and Regional Economics 2025*, ASSA Annual Meeting 2026 Philadelphia*, EEA-ESEM 2026 Dublin, UPF Internal Applied Lunch</span></li>
+<span class="pres"><em>Presentations</em>: EMUEA 2025 Berlin, HKU*, Jinan-SMU Conference on Urban and Regional Economics 2025*, ASSA Annual Meeting 2026 Philadelphia*, EEA-ESEM 2026 Dublin, UPF Internal Applied Lunch</span>
+<details class="abs"><summary>Abstract</summary><p>How does public housing allocation affect private rents and supply across quality segments? Motivated by patterns in Hong Kong’s rental market, we develop a tractable two-quality housing assignment model with rationed public housing, endogenous construction, and costly conversion of existing dwellings. With imperfect targeting, more generous public housing shifts private demand toward low quality. When new construction is high quality and conversion is sufficiently costly, low-quality private rents rise while high-quality rents fall. In a calibration to Hong Kong, raising public rents or converting public flats to private rental benefits low-quality private renters, but subsidy losses outweigh these gains: expected renter utility falls in every income group when fiscal proceeds are not redistributed.</p></details></li>
 </ol>
 
 <h2 id="work-in-progress">Work in Progress</h2>
